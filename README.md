@@ -27,7 +27,7 @@
 | Category                 | Details                                                  |
 | ------------------------ | -------------------------------------------------------- |
 | 👤 **Project Name**      | Penetration Testing Report                               |
-| **Pentester Name**       | Rabi Chaudhary                                           |
+| **Pentester Name**       | Himal Bhandari                                          |
 | **Role**                 | Cybersecurity Student / Junior Penetration Tester        |
 | **Program / Batch**      | B082 – Networkwalks                                      |
 | **Assessment Date**      | 21 August 2026                                           |
@@ -182,7 +182,7 @@ Himal Bhandari
 
 Cybersecurity Professional B082
 
-LinkedIn:https:
+LinkedIn: https://lnkd.in/p/gdS7Xrca
 
 ## 📌 Project Information
 
